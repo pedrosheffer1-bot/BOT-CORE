@@ -1,0 +1,7 @@
+{
+  "name": "Mindy - AI Expense Tracker",
+  "description": "A high-performance, glassmorphism-styled landing page for Mindy, an AI-powered expense tracking bot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
